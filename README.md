@@ -23,15 +23,12 @@ Ask me anything by emailing me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-  
 </div>
-
 <!--
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Karamolegkos.Karamolegkos" alt="visitor badge"/>
 </p>
 -->
-
 <!--
 **karamolegkos/karamolegkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
