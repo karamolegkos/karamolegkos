@@ -2,7 +2,6 @@
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
   
   ![welcome image](presenting.jpg)
-  
 </div>
 
 <div align="center">
@@ -12,13 +11,50 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything by emailing me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</b></a>.
 
 <i>Happy Coding!</i> 😊
-
 </div>
-
 <p align='center'>
+  <!--
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Karamolegkos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e"    alt="Karamolegkos's Github Stats">
+  -->
 </p>
 <br>
+
+```javascript
+const Karamolegkos = {
+  "Name": "Panagiotis",
+  "Surname": "Karamolegkos",
+  "Occupation": ["IT Student @ University of Piraeus", "Developer", "Researcher"],
+  "Age": 22,
+  "Residence": "Greece",
+  "Languages": ["Greek", "English"],
+  "Hard Skills": {
+    "Front End Development": ["HTML", "CSS", "Javascript", "JQuery", "Bootstrap"],
+    "Back End Development": ["Java", "Python", "Node.js"],
+    "Database Management and Development": ["Mongo", "MySQL", "SQLite", "MinIO"],
+    "Android Development": ["Android Studio"],
+    "Structured Data Representation": ["JSON", "XML", "DTD", "XSD", "XSL"],
+    "API Development": ["RESTFul", "SOAP"],
+    "Big Data": ["Spark", "Hadoop", "Mahout", "Flume", "Kafka", "Avro"],
+    "Other": ["OpenStack", "Docker", "UML", "jinja2", "jsp", "flask", "MATLAB", "Octave", "Arduino", "Scratch", "C", "GIT", "Image Editing", "Video Editing", "Shell Scripting", "Microsoft Office"]
+  },
+  "Soft Skills": [
+    "Problem Solving", 
+    "Public Speaking",
+    "Leadership",
+    "Creativity",
+    "Team Spirit",
+    "Adaptability",
+    "Communicativeness",
+    "Thinking with Mathematical Perception"
+  ],
+  "Hobbies": [
+    "Grepper Helping",
+    "General Programming and Coding",
+    "Application Development",
+    "Basketball"
+  ]
+}
+```
 
 <div align="center">
   
@@ -30,11 +66,8 @@ Ask me anything by emailing me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</
   <br>
   
   ![grepper image](grepper.png)
-  
 </div>
-
 <br>
-
 <div align="center">
 
 ## 😂 Here is a random joke that'll make you laugh!
