@@ -23,10 +23,14 @@ Ask me anything by emailing me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</
 <div align="center">
   
 ## I am also a purple Grepper belt 😃
-  
+  <p>
   I am using <a href="https://www.codegrepper.com/"><b>Grepper</b></a> about a year now. I like helping people and solving problems a lot 💪. <br>
-  You can find my profile <a href="https://www.codegrepper.com/app/profile.php?id=46210"><b>here</b></a>. <br>
+  You can find my profile <a href="https://www.codegrepper.com/app/profile.php?id=46210"><b>here</b></a>.
+  </p>
+  <br>
+  
   ![grepper image](grepper.png)
+  
 </div>
 
 <br>
@@ -36,6 +40,8 @@ Ask me anything by emailing me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
+
+
 <!--
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Karamolegkos.Karamolegkos" alt="visitor badge"/>
