@@ -9,7 +9,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything by emailing me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</b></a> 
+Ask me anything by emailing me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</b></a>.
 
 <i>Happy Coding!</i> 😊
 
@@ -18,6 +18,18 @@ Ask me anything by emailing me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Karamolegkos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e"    alt="Karamolegkos's Github Stats">
 </p>
+<br>
+
+<div align="center">
+  
+## I am also a purple Grepper belt 😃
+  
+  I am using <a href="https://www.codegrepper.com/"><b>Grepper</b></a> about a year now. I like helping people and solving problems a lot 💪. <br>
+  You can find my profile <a href="https://www.codegrepper.com/app/profile.php?id=46210"><b>here</b></a>. <br>
+  ![grepper image](grepper.png)
+</div>
+
+<br>
 
 <div align="center">
 
