@@ -28,8 +28,8 @@ const Karamolegkos = {
   "Residence": "Greece",
   "Languages": ["Greek", "English"],
   "Hard Skills": {
-    "Front End Development": ["HTML", "CSS", "Javascript", "JQuery", "Bootstrap"],
-    "Back End Development": ["Java", "Python", "Node.js"],
+    "Front-End Development": ["HTML", "CSS", "Javascript", "JQuery", "Bootstrap"],
+    "Back-End Development": ["Java", "Python", "Node.js"],
     "Database Management and Development": ["Mongo", "MySQL", "SQLite", "MinIO"],
     "Android Development": ["Android Studio"],
     "Structured Data Representation": ["JSON", "XML", "DTD", "XSD", "XSL"],
