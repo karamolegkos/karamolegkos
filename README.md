@@ -34,8 +34,9 @@ const Karamolegkos = {
     "Android Development": ["Android Studio"],
     "Structured Data Representation": ["JSON", "XML", "DTD", "XSD", "XSL"],
     "API Development": ["RESTFul", "SOAP"],
+    "Digital Clouds": ["OpenStack", "OpenStack Heat"],
     "Big Data": ["Spark", "Hadoop", "Mahout", "Flume", "Kafka", "Avro"],
-    "Other": ["OpenStack", "Docker", "UML", "jinja2", "jsp", "flask", "MATLAB", "Octave", "Arduino", "Scratch", "C", "GIT", "Image Editing", "Video Editing", "Shell Scripting", "Microsoft Office"]
+    "Other": ["Docker", "UML", "jinja2", "jsp", "flask", "MATLAB", "Octave", "Arduino", "Scratch", "C", "GIT", "Image Editing", "Video Editing", "Shell Scripting", "Microsoft Office"]
   },
   "Soft Skills": [
     "Problem Solving", 
