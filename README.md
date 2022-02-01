@@ -66,7 +66,7 @@ const Karamolegkos = {
   </p>
   <br>
   
-  ![grepper image](grepper2-22.png)
+  ![grepper image](grepper.png)
 </div>
 <br>
 <div align="center">
