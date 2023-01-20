@@ -59,7 +59,7 @@ const Karamolegkos = {
 
 <div align="center">
   
-## I am also a purple Grepper belt 😃
+## I am also a brown Grepper belt 😃
   <p>
   I am using <a href="https://www.codegrepper.com/"><b>Grepper</b></a> about a year now. I like helping people and solving problems a lot 💪. <br>
   You can find my profile <a href="https://www.codegrepper.com/app/profile.php?id=46210"><b>here</b></a>.
