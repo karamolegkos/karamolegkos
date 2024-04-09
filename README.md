@@ -75,10 +75,6 @@ const Karamolegkos = {
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Karamolegkos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e"    alt="Karamolegkos's Github Stats">
-</p>
-
 
 <!--
 <p align='center'>
