@@ -61,7 +61,7 @@ const Karamolegkos = {
     "Grepper Helping",
     "General Programming and Coding",
     "Application Development",
-    "DnD".
+    "DnD",
     "Basketball"
   ]
 }
