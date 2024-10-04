@@ -23,10 +23,18 @@ Ask me anything by emailing me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</
 const Karamolegkos = {
   "Name": "Panagiotis",
   "Surname": "Karamolegkos",
-  "Occupation": ["IT Student @ University of Piraeus", "Developer", "Researcher"],
-  "Age": 22,
+  "Occupation": [
+    "MSc on Advanced Information Systems @ UniPi",
+    "BSc (VD) on Digital Systems Valedictorian @ UniPi",
+    "Developer",
+    "Researcher",
+    "Teacher"
+  ],
+  "Age": 25,
   "Residence": "Greece",
   "Languages": ["Greek", "English"],
+  "European Projects" : ["DIASTEMA", "CODECO"],
+  "Owned Projects" : ["EverAnalyzer", "EverCluster"],
   "Hard Skills": {
     "Front-End Development": ["HTML", "CSS", "Javascript", "JQuery", "Bootstrap"],
     "Back-End Development": ["Java", "Python", "Node.js"],
@@ -36,7 +44,7 @@ const Karamolegkos = {
     "API Development": ["RESTFul", "SOAP"],
     "Digital Clouds": ["OpenStack", "OpenStack Heat"],
     "Big Data": ["Spark", "Hadoop", "Mahout", "Flume", "Kafka", "Avro"],
-    "Other": ["Docker", "UML", "jinja2", "jsp", "flask", "MATLAB", "Octave", "Arduino", "Scratch", "C", "GIT", "Image Editing", "Video Editing", "Shell Scripting", "Microsoft Office"]
+    "Other": ["Docker", "Kubernetes", "UML", "jinja2", "jsp", "flask", "MATLAB", "Octave", "Arduino", "Scratch", "C", "GIT", "Image Editing", "Video Editing", "Shell Scripting", "Microsoft Office"]
   },
   "Soft Skills": [
     "Problem Solving", 
@@ -46,12 +54,14 @@ const Karamolegkos = {
     "Team Spirit",
     "Adaptability",
     "Communicativeness",
-    "Thinking with Mathematical Perception"
+    "Thinking with Mathematical Perception",
+    "Knowledge on AI & ML"
   ],
   "Hobbies": [
     "Grepper Helping",
     "General Programming and Coding",
     "Application Development",
+    "DnD"
     "Basketball"
   ]
 }
